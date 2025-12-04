@@ -1,0 +1,2 @@
+# image_folder_for_OJT_pull_request
+image_folder_for_OJT_pull_request
